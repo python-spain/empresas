@@ -14,3 +14,12 @@
 * [Localización](https://www.openstreetmap.org/#map=18/41.98333/2.81378)
 * Creamos soluciones para empresas del sector eléctrico: Comercializadoras y distribudoras. ERP y GIS. Todo en software libre.
 * *python-friendliness*: :snake: :snake: :snake:
+
+#### [No es magia es Wadobo, S.L.L](http://wadobo.com)
+
+* C/Gabriela Sánchez Aranda, 5A Local 41010, Sevilla - 951 49 14 24 - info@wadobo.com
+* [GitHub](http://github.com/wadobo)
+* [Twitter](http://twitter.com/wadobo)
+* No tenemos oficina como tal, el equipo está distribuido entre Huelva, Málaga y Madrid
+* Desarrollamos todo tipo de software relacionado con GNU/Linux y el software libre y también somos expertos en desarrollo web con django.
+* *python-friendliness*: :snake: :snake:
