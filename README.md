@@ -4,7 +4,7 @@
 * Empresas con uso interno de Python
 * Empresas que buscan programadores en Python
  
-
+Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 
 #### [GISCE-TI, S.L.](http://gisce.net)
 
