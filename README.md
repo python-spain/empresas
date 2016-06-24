@@ -10,6 +10,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 
 * Edifici Europa - Planta baja - Galileo Galilei, s/n 07121 Parc Bit - Palma - Illes Balears - 971 43 97 71 - info@apsl.net
 * [GitHub](http://github.com/APSL/)
+* [Twitter](https://twitter.com/apsl_web)
 * [Localización](http://www.openstreetmap.org/?mlat=39.63662&mlon=2.63128#map=18/39.63662/2.63128)
 * Desarrollo de aplicaciones web e ingeniería de sistemas. Sistemas GNU-Linux. Desarrollo de aplicaciones móviles. Desarrollos en Python, Django. Servidores en la nube o dedicados.
 * *python-friendliness*: :snake: :snake: :snake:
