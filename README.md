@@ -11,7 +11,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * Pl. de Mela Mutermilch, 2 1 1. 17001 Girona - 972 21 73 84 - gisce@gisce.net
 * [GitHub](http://github.com/gisce)
 * [Twitter](http://twitter.com/gisce)
-* [Localización](https://www.openstreetmap.org/#map=18/41.98333/2.81378)
+* [Localización](http://www.openstreetmap.org/?mlat=41.98333&mlon=2.81378#map=18/41.98333/2.81378)
 * Creamos soluciones para empresas del sector eléctrico: Comercializadoras y distribudoras. ERP y GIS. Todo en software libre.
 * *python-friendliness*: :snake: :snake: :snake:
 
