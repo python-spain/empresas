@@ -39,6 +39,6 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * [GitHub](http://github.com/bitergia), [GrimoireLab](http://github.com/bitergia)
 * [Twitter](http://twitter.com/bitergia)
 * [Localización](http://www.openstreetmap.org/?mlat=40.354541&mlon=-3.743720#map=18/40.35454/-3.74372)
-* Desarrollamos todo tipo de software relacionado con GNU/Linux y el software libre y también somos expertos en desarrollo web con django.
+* Analítica cuantitativa de los procesos de desarrollo de software, especialmente desarrollo Open Source e Inner Source. Bitergia ofrece herramientas y asesoramiento para gestores de proyectos y de comunidades para conocer mejor los proyectos de software en los que están involucrados
 * *python-friendliness*: :snake: :snake: :snake:
 
