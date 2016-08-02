@@ -33,6 +33,15 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * Creamos soluciones para empresas del sector eléctrico: Comercializadoras y distribudoras. ERP y GIS. Todo en software libre.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [INITIOS DESARROLLOS, S.L.](http://www.initios.com)
+
+* Rúa de García Barbón 27 Interior bajo, 36201 Vigo (Pontevedra) - 886 44 07 15 - contact@initios.com
+* [GitHub](https://github.com/initios)
+* [Twitter](https://twitter.com/initios_com)
+* [Localización](http://www.openstreetmap.org/?mlat=42.23732&mlon=-8.71767#map=18/42.23732/-8.71767)
+* Desarrollo a medida para empresas con especialización en mantenimiento, evolución y migración de entornos heredados.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [No es magia es Wadobo, S.L.L](http://wadobo.com)
 
 * C/Gabriela Sánchez Aranda, 5A Local 41010, Sevilla - 951 49 14 24 - info@wadobo.com
