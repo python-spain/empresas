@@ -38,7 +38,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * Rúa de García Barbón 27 Interior bajo, 36201 Vigo (Pontevedra) - 886 44 07 15 - contact@initios.com
 * [GitHub](https://github.com/initios)
 * [Twitter](https://twitter.com/initios_com)
-* [Localización](http://www.openstreetmap.org/?mlat=42.23732&mlon=-8.71767#map=16/42.2356/-8.7202)
+* [Localización](http://www.openstreetmap.org/?mlat=42.23732&mlon=-8.71767#map=18/42.23732/-8.71767)
 * Desarrollo a medida para empresas con especialización en mantenimiento, evolución y migración de entornos heredados.
 * *python-friendliness*: :snake: :snake: :snake:
 
