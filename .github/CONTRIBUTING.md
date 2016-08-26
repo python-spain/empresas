@@ -1,4 +1,4 @@
-*(Sólo para empresas en España)*
+*(Sólo para empresas que operen en España)*
 
 ### Criterios para aparecer en la lista
 
