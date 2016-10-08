@@ -1,5 +1,7 @@
 # Listado de empresas *python-friendly* en España
 
+## *Dando visibilidad al uso de Python en la industria española del software*
+
 * Empresas con soluciones basadas en Python
 * Empresas con uso interno de Python
 * Empresas que buscan programadores en Python
