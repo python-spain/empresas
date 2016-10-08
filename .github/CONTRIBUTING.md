@@ -6,6 +6,10 @@
 * ¿Se utiliza internamente de manera habitual?
 * ¿Busca tu empresa programadores con experiencia en Python?
 
+*(si crees que debemos cambiar o añadir otros criterios, ¡[abre un tique](https://github.com/python-spain/empresas/issues)!)*
+
+### Esquema de información a aportar
+
 #### [Nombre empresa](http://empresa.com/)
 
 * Información de contacto (Dirección completa, teléfono, correo electrónico)
@@ -28,3 +32,7 @@ bloque, de manera alfabética.
 * Ya puedes crear tu [pull request](https://help.github.com/articles/creating-a-pull-request/)
 * Sólo te queda esperar a la revisión (esperamos ser rápidos)
 * Una vez integrados los cambios en la lista, puedes borrar tu *branch* o el *fork* entero
+
+### ¡Uf, demasiado complicado para mí!
+
+* Puedes [abrir un tique (*Issue*)](https://github.com/python-spain/empresas/issues) y, si nos proporcionas todos los datos, nosotros incorporaremos a tu empresa en el listado
