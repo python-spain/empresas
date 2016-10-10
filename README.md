@@ -2,11 +2,15 @@
 
 ## *Dando visibilidad al uso de Python en la industria española del software*
 
-* Empresas con soluciones basadas en Python
-* Empresas con uso interno de Python
+* Empresas que venden productos y servicios basados en Python
+* Empresas que usan Python internamente
 * Empresas que buscan programadores en Python
  
+## ¿Tu empresa no está en el listado?
+
 Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+
+## Directorio de empresas
 
 #### [APSL](https://www.apsl.net/)
 
