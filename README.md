@@ -48,6 +48,15 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * Desarrollo a medida para empresas con especialización en mantenimiento, evolución y migración de entornos heredados.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [OpenShine](http://www.openshine.com)
+
+* Plaza del Conde del Valle de Súchil 7, 1º, puerta 8, 28015 Madrid - info@openshine.com
+* [GitHub](https://github.com/openshine),
+* [Twitter](https://twitter.com/openshine)
+* [Localización](http://www.openstreetmap.org/#map=19/40.43212/-3.70755)
+* OpenShine es una pequeña empresa de desarrollo de software, especializada en Web, Móvil y DevOps. Estamos construyendo un equipo técnico sin jerarquías, en el que las decisiones se toman entre todos, y con una transparencia absoluta en lo relativo a la gestión de la empresa. Nuestro propósito es crecer de manera sostenible, creando productos de alta calidad y divirtiéndonos por el camino. 
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [No es magia es Wadobo, S.L.L](http://wadobo.com)
 
 * C/Gabriela Sánchez Aranda, 5A Local 41010, Sevilla - 951 49 14 24 - info@wadobo.com
