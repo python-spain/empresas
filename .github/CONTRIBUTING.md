@@ -8,7 +8,7 @@
 
 *(si crees que debemos cambiar o añadir otros criterios, ¡[abre un tique](https://github.com/python-spain/empresas/issues)!)*
 
-### Esquema de información a aportar
+### ¿Qué información tengo que aportar?
 
 #### [Nombre empresa](http://empresa.com/)
 
@@ -22,7 +22,12 @@
 La ordenación en la lista se hace por número de *pythons* y, dentro de cada
 bloque, de manera alfabética.
 
-### Pasos para incluir una empresa
+*(si crees que debemos cambiar o añadir otra información, ¡[abre un tique](https://github.com/python-spain/empresas/issues)!)*
+
+### ¿Cómo puedo añadir a mi empresa?
+
+#### Versión Pro (ya has usado GitHub anteriormente)
+
 (no es necesario usar git en tu ordenador; todo esto se puede hacer desde la interfaz web de GitHub)
 
 * Necesitas una [cuenta GitHub](https://github.com/join)
@@ -33,6 +38,6 @@ bloque, de manera alfabética.
 * Sólo te queda esperar a la revisión (esperamos ser rápidos)
 * Una vez integrados los cambios en la lista, puedes borrar tu *branch* o el *fork* entero
 
-### ¡Uf, demasiado complicado para mí!
+#### Versión Newbie (no has usado nunca GitHub)
 
-* Puedes [abrir un tique (*Issue*)](https://github.com/python-spain/empresas/issues) y, si nos proporcionas todos los datos, nosotros incorporaremos a tu empresa en el listado
+* Puedes [abrir un tique](https://github.com/python-spain/empresas/issues) y, *si nos proporcionas todos los datos*, nosotros incorporaremos a tu empresa en el listado. Necesitas una [cuenta GitHub](https://github.com/join)
