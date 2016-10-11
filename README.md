@@ -57,6 +57,15 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * OpenShine es una pequeña empresa de desarrollo de software, especializada en Web, Móvil y DevOps. Estamos construyendo un equipo técnico sin jerarquías, en el que las decisiones se toman entre todos, y con una transparencia absoluta en lo relativo a la gestión de la empresa. Nuestro propósito es crecer de manera sostenible, creando productos de alta calidad y divirtiéndonos por el camino. 
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [GNUites](http://gnuites.cat/)
+
+* Antic Camí Ral 17, AD500 Andorra la Vella, Principat d'Andorra - +376 647 007 - info@gnuites.cat
+* [GitHub](http://github.com/GNUites/)
+* [Twitter](http://twitter.com/gnuites_and/)
+* [Localización](http://www.openstreetmap.org/?mlat=42.50113&mlon=1.51129#map=18/42.50113/1.51129)
+* Creación de soluciones basadas en tecnologías libres. Desarrollo web, APPs nativas/híbridas, auditoría y consultoría IT-sec. Nos centramos en la optimización de procesos de negocio exprimiendo al máximo la tecnología que tenemos a nuestro alcance, la seguridad de la información y la integración de nuevos canales.
+* *python-friendliness*: :snake: :snake:
+
 #### [No es magia es Wadobo, S.L.L](http://wadobo.com)
 
 * C/Gabriela Sánchez Aranda, 5A Local 41010, Sevilla - 951 49 14 24 - info@wadobo.com
