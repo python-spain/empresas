@@ -30,6 +30,15 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * Analítica cuantitativa de los procesos de desarrollo de software, especialmente desarrollo Open Source e Inner Source. Bitergia ofrece herramientas y asesoramiento para gestores de proyectos y de comunidades para conocer mejor los proyectos de software en los que están involucrados
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Ebury](https://www.ebury.es/)
+
+* C/ Puerta del Mar 15, 2º planta, 29005 Málaga - +34 951 203 973 - info@ebury.es
+* [GitHub](https://github.com/Ebury/)
+* [Twitter](https://twitter.com/EburyES/)
+* [Localización](http://www.openstreetmap.org/?mlat=36.71816&mlon=-4.42274#map=18/36.71816/-4.42274)
+* Ebury es una firma especializada en pagos internacionales e intercambio de divisas. Desarrollo de aplicaciones web. Análisis de datos. Servidores en la nube.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [GISCE-TI, S.L.](http://gisce.net)
 
 * Pl. de Mela Mutermilch, 2 1 1. 17001 Girona - 972 21 73 84 - gisce@gisce.net
