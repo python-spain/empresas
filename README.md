@@ -39,6 +39,15 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * Ebury es una firma especializada en pagos internacionales e intercambio de divisas. Desarrollo de aplicaciones web. Análisis de datos. Servidores en la nube.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Geographica](http://geographica.gs)
+
+* Avenida de Grecia 8, 41012, Sevilla - +34 954 701 157 - hello@geographica.gs
+* [GitHub](https://github.com/GeographicaGS)
+* [Twitter](https://twitter.com/geographica_gs)
+* [Localización](http://www.openstreetmap.org/node/2730709127#map=17/37.35149/-5.98470)
+* Entusiastas de los datos espaciales, el diseño y el software libre, en Geographica hacemos que los datos cuenten con soluciones GIS, BI y ML para Smart Cities y empresas.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [GISCE-TI, S.L.](http://gisce.net)
 
 * Pl. de Mela Mutermilch, 2 1 1. 17001 Girona - 972 21 73 84 - gisce@gisce.net
