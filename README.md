@@ -83,12 +83,3 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * No tenemos oficina como tal, el equipo está distribuido entre Huelva, Málaga y Madrid
 * Desarrollamos todo tipo de software relacionado con GNU/Linux y el software libre y también somos expertos en desarrollo web con django.
 * *python-friendliness*: :snake: :snake:
-
-#### [Geographica](http://geographica.gs)
-
-* Avenida de Grecia 8, 41012, Sevilla - +34 954 701 157 - hello@geographica.gs
-* [GitHub](https://github.com/GeographicaGS)
-* [Twitter](https://twitter.com/geographica_gs)
-* [Localización](http://www.openstreetmap.org/node/2730709127#map=17/37.35149/-5.98470)
-* Entusiastas de los datos espaciales, el diseño y el software libre, en Geographica hacemos que los datos cuenten con soluciones GIS, BI y ML para Smart Cities y empresas.
-* *python-friendliness*: :snake: :snake: :snake:
