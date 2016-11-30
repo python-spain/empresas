@@ -86,7 +86,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 
 #### [Geographica](http://geographica.gs)
 
-* Avenida de Grecia 8, 41012, Sevilla
+* Avenida de Grecia 8, 41012, Sevilla - +34 954 701 157 - hello@geographica.gs
 * [GitHub](https://github.com/GeographicaGS)
 * [Twitter](https://twitter.com/geographica_gs)
 * [Localización](http://www.openstreetmap.org/node/2730709127#map=17/37.35149/-5.98470)
