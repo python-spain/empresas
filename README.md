@@ -21,6 +21,15 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * Desarrollo de aplicaciones web e ingeniería de sistemas. Sistemas GNU-Linux. Desarrollo de aplicaciones móviles. Desarrollos en Python, Django. Servidores en la nube o dedicados.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [BeDjango - Emergya](http://bedjango.com)
+
+* Avda. Luis de Morales, 32, Edificio Fórum, 41018, Sevilla - (0034) 954 51 75 77  - info@bedjango.com
+* [GitHub](https://github.com/BeDjango)
+* [Twitter](http://twitter.com/bedjango)
+* [Localización](http://www.openstreetmap.org/node/2293397059#map=18/37.38331/-5.97258)
+* En BeDjango somos expertos en tecnología. Estamos fuertemente especializados en Python/Django y tecnologías relacionadas como Open edX, OpenStack y Pyramid. Hacemos desarrollo ágil y estamos plenamente comprometidos con el aseguramiento de la calidad.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Bitergia](http://bitergia.com)
 
 * Avda. Gregorio Peces Barba, 1 - 28918 Leganés, Madrid - info@bitergia.com
