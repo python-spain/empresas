@@ -23,7 +23,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 
 #### [BeDjango - Emergya](http://bedjango.com)
 
-* Avda. Luis de Morales, 32, Edificio Fórum, 41018, Sevilla - info@emergya.com
+* Avda. Luis de Morales, 32, Edificio Fórum, 41018, Sevilla - (0034) 954 51 75 77  - info@emergya.com
 * [GitHub](https://github.com/BeDjango)
 * [Twitter](http://twitter.com/bedjango)
 * [Localización](http://www.openstreetmap.org/node/2293397059#map=18/37.38331/-5.97258)
