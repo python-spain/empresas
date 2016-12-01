@@ -27,7 +27,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * [GitHub](https://github.com/BeDjango)
 * [Twitter](http://twitter.com/bedjango)
 * [Localización](http://www.openstreetmap.org/node/2293397059#map=18/37.38331/-5.97258)
-* En BeDjango somos expertos en tecnología. Estamos fuertemente especializados en Python/Django y tecnolocías relacionadas como Open edX, OpenStack y Pyramid. Hacemos desarrollo ágil y estamos plenamente comprometidos con el aseguramiento de la calidad.
+* En BeDjango somos expertos en tecnología. Estamos fuertemente especializados en Python/Django y tecnologías relacionadas como Open edX, OpenStack y Pyramid. Hacemos desarrollo ágil y estamos plenamente comprometidos con el aseguramiento de la calidad.
 * *python-friendliness*: :snake: :snake: :snake:
 
 #### [Bitergia](http://bitergia.com)
