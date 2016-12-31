@@ -2,7 +2,7 @@
 
 ### Criterios para aparecer en la lista
 
-(sólo necesitas cumplir uno de ellos para poder aparecer)
+(sólo necesitas cumplir al menos uno de ellos para poder aparecer)
 
 * ¿Ofrece tu empresa soluciones basadas en Python?
 * ¿Se utiliza internamente de manera habitual?
