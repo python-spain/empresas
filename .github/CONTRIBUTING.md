@@ -2,6 +2,8 @@
 
 ### Criterios para aparecer en la lista
 
+(sólo necesitas cumplir uno de ellos para poder aparecer)
+
 * ¿Ofrece tu empresa soluciones basadas en Python?
 * ¿Se utiliza internamente de manera habitual?
 * ¿Busca tu empresa programadores con experiencia en Python?
