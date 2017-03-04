@@ -5,7 +5,7 @@
 * Empresas que venden productos y servicios basados en Python
 * Empresas que usan Python internamente
 * Empresas que buscan programadores en Python
-
+ 
 ## ¿Tu empresa no está en el listado?
 
 Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.github/CONTRIBUTING.md)
@@ -81,7 +81,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * [GitHub](https://github.com/openshine),
 * [Twitter](https://twitter.com/openshine)
 * [Localización](http://www.openstreetmap.org/#map=19/40.43212/-3.70755)
-* OpenShine es una pequeña empresa de desarrollo de software, especializada en Web, Móvil y DevOps. Estamos construyendo un equipo técnico sin jerarquías, en el que las decisiones se toman entre todos, y con una transparencia absoluta en lo relativo a la gestión de la empresa. Nuestro propósito es crecer de manera sostenible, creando productos de alta calidad y divirtiéndonos por el camino.
+* OpenShine es una pequeña empresa de desarrollo de software, especializada en Web, Móvil y DevOps. Estamos construyendo un equipo técnico sin jerarquías, en el que las decisiones se toman entre todos, y con una transparencia absoluta en lo relativo a la gestión de la empresa. Nuestro propósito es crecer de manera sostenible, creando productos de alta calidad y divirtiéndonos por el camino. 
 * *python-friendliness*: :snake: :snake: :snake:
 
 #### [GNUites](http://gnuites.cat/)
