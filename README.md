@@ -5,7 +5,7 @@
 * Empresas que venden productos y servicios basados en Python
 * Empresas que usan Python internamente
 * Empresas que buscan programadores en Python
- 
+
 ## ¿Tu empresa no está en el listado?
 
 Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.github/CONTRIBUTING.md)
@@ -50,10 +50,10 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 
 #### [Geographica](http://geographica.gs)
 
-* Avenida de Grecia 8, 41012, Sevilla - +34 954 701 157 - hello@geographica.gs
+* Ebro 1, 41012, Sevilla - +34 954 701 157 - hello@geographica.gs
 * [GitHub](https://github.com/GeographicaGS)
 * [Twitter](https://twitter.com/geographica_gs)
-* [Localización](http://www.openstreetmap.org/node/2730709127#map=17/37.35149/-5.98470)
+* [Localización](http://www.openstreetmap.org/node/2730709127#map=17/37.35553/-5.98302),
 * Entusiastas de los datos espaciales, el diseño y el software libre, en Geographica hacemos que los datos cuenten con soluciones GIS, BI y ML para Smart Cities y empresas.
 * *python-friendliness*: :snake: :snake: :snake:
 
@@ -81,7 +81,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * [GitHub](https://github.com/openshine),
 * [Twitter](https://twitter.com/openshine)
 * [Localización](http://www.openstreetmap.org/#map=19/40.43212/-3.70755)
-* OpenShine es una pequeña empresa de desarrollo de software, especializada en Web, Móvil y DevOps. Estamos construyendo un equipo técnico sin jerarquías, en el que las decisiones se toman entre todos, y con una transparencia absoluta en lo relativo a la gestión de la empresa. Nuestro propósito es crecer de manera sostenible, creando productos de alta calidad y divirtiéndonos por el camino. 
+* OpenShine es una pequeña empresa de desarrollo de software, especializada en Web, Móvil y DevOps. Estamos construyendo un equipo técnico sin jerarquías, en el que las decisiones se toman entre todos, y con una transparencia absoluta en lo relativo a la gestión de la empresa. Nuestro propósito es crecer de manera sostenible, creando productos de alta calidad y divirtiéndonos por el camino.
 * *python-friendliness*: :snake: :snake: :snake:
 
 #### [GNUites](http://gnuites.cat/)
