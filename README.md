@@ -12,14 +12,6 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 
 ## Directorio de empresas
 
-#### [Dargo](https://dargo.net/)
-* Avenida Carlos Francisco Lorenzo Navarro 56, oficina 1. Los Llanos de Aridane, Santa Cruz de Tenerife.
-* [GitHub](https://github.com/dargonet)
-* [Twitter](https://twitter.com/dargotw)
-* [Localización](http://www.openstreetmap.org/#map=14/28.6546/-17.9226)
-* Desarrollo de software a medida: aplicaciones web, aplicaciones móviles, API RESTful, scripts... Interesados en microservicios asíncronos y aumentar el rendimiento del back-end. Trabajamos con la metodologa ágil SCRUM y apostamos por las nuevas tecnologías con ayuda de nuestro creciente equipo polivalente.
-* *python-friendliness*: :snake: :snake: :snake:
-
 #### [APSL](https://www.apsl.net/)
 
 * Edifici Europa - Planta baja - Galileo Galilei, s/n 07121 Parc Bit - Palma - Illes Balears - 971 43 97 71 - info@apsl.net
@@ -45,6 +37,14 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * [Twitter](http://twitter.com/bitergia)
 * [Localización](http://www.openstreetmap.org/?mlat=40.354541&mlon=-3.743720#map=18/40.35454/-3.74372)
 * Analítica cuantitativa de los procesos de desarrollo de software, especialmente desarrollo Open Source e Inner Source. Bitergia ofrece herramientas y asesoramiento para gestores de proyectos y de comunidades para conocer mejor los proyectos de software en los que están involucrados
+* *python-friendliness*: :snake: :snake: :snake:
+
+#### [Dargo](https://dargo.net/)
+* Avenida Carlos Francisco Lorenzo Navarro 56, oficina 1. Los Llanos de Aridane, Santa Cruz de Tenerife.
+* [GitHub](https://github.com/dargonet)
+* [Twitter](https://twitter.com/dargotw)
+* [Localización](http://www.openstreetmap.org/#map=14/28.6546/-17.9226)
+* Desarrollo de software a medida: aplicaciones web, aplicaciones móviles, API RESTful, scripts... Interesados en microservicios asíncronos y aumentar el rendimiento del back-end. Trabajamos con la metodologa ágil SCRUM y apostamos por las nuevas tecnologías con ayuda de nuestro creciente equipo polivalente.
 * *python-friendliness*: :snake: :snake: :snake:
 
 #### [Ebury](https://www.ebury.es/)
