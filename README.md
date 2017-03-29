@@ -39,6 +39,14 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 * Analítica cuantitativa de los procesos de desarrollo de software, especialmente desarrollo Open Source e Inner Source. Bitergia ofrece herramientas y asesoramiento para gestores de proyectos y de comunidades para conocer mejor los proyectos de software en los que están involucrados
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Dargo](https://dargo.net/)
+* Avenida Carlos Francisco Lorenzo Navarro 56, oficina 1. Los Llanos de Aridane, Santa Cruz de Tenerife.
+* [GitHub](https://github.com/dargonet)
+* [Twitter](https://twitter.com/dargotw)
+* [Localización](http://www.openstreetmap.org/#map=14/28.6546/-17.9226)
+* Desarrollo de software a medida: aplicaciones web, aplicaciones móviles, API RESTful, scripts... Interesados en microservicios asíncronos y aumentar el rendimiento del back-end. Trabajamos con la metodologa ágil SCRUM y apostamos por las nuevas tecnologías con ayuda de nuestro creciente equipo polivalente.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Ebury](https://www.ebury.es/)
 
 * C/ Puerta del Mar 15, 2º planta, 29005 Málaga - +34 951 203 973 - info@ebury.es
