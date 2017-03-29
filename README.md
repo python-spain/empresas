@@ -12,7 +12,7 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 
 ## Directorio de empresas
 
-### [Dargo](https://dargo.net/)
+#### [Dargo](https://dargo.net/)
 * Avenida Carlos Francisco Lorenzo Navarro 56, oficina 1. Los Llanos de Aridane, Santa Cruz de Tenerife.
 * [GitHub](https://github.com/dargonet)
 * [Twitter](https://twitter.com/dargotw)
