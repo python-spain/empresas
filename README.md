@@ -10,6 +10,8 @@
 
 Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 
+El listado tiene una licencia [Creative Commons 0](LICENSE).
+
 ## Directorio de empresas
 
 #### [APSL](https://www.apsl.net/)
