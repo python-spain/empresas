@@ -111,3 +111,12 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * No tenemos oficina como tal, el equipo está distribuido entre Huelva, Málaga y Madrid
 * Desarrollamos todo tipo de software relacionado con GNU/Linux y el software libre y también somos expertos en desarrollo web con django.
 * *python-friendliness*: :snake: :snake:
+
+
+#### [Menta Technology](https://www.mentatech.es)
+
+* C/Azagador de Alboraya 16, 46020 Valencia - 964 921 000 - info@mentatech.es
+* [GitHub](http://github.com/mentatech)
+* [Localización](http://www.openstreetmap.org/query?lat=39.48858&lon=-0.36159#map=19/39.48859/-0.36153)
+* Administración de servidores y redes, virtualización y monitorización. Utilizamos Ansible para automatización y despliegue.
+* *python-friendliness*: :snake:
