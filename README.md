@@ -91,7 +91,7 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [GitHub](https://github.com/iomedhealth)
 * [Twitter](https://twitter.com/iomed_ehr)
 * [Localización](http://www.openstreetmap.org/way/221321155#map=18/41.27618/1.98925)
-* Nuestro producto es un gestor de historias clínica médicas (EHR), que asiste al médico en la creación, visualización y análisis de los datos del paciente. La herramienta analoza el texto introducido por los médicos, estructrurando y ordenando la información del paciente en tiempo real, permitiendo así poder hacer análisis en profundidad sobre los datos propiamente médicos.
+* Nuestro producto es un gestor de historias clínica médicas (EHR), que asiste al médico en la creación, visualización y análisis de los datos del paciente. La herramienta analiza el texto introducido por los médicos, estructrurando y ordenando la información del paciente en tiempo real, permitiendo así poder hacer análisis en profundidad sobre los datos propiamente médicos.
 * *python-friendliness*: :snake: :snake: :snake:
 
 #### [OpenShine](http://www.openshine.com)
