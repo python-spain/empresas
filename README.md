@@ -14,6 +14,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 
 ## Directorio de empresas
 
+#### [Paradigma Digital](https://www.paradigmadigital.com/)
+
+* Vía de las dos Castillas, 33. Ática 4, 2ª Planta. 28224 Pozuelo de Alarcón - Madrid
+* [GitHub](https://github.com/paradigmadigital)
+* [Twitter](https://twitter.com/paradigmate)
+* [Localización](http://www.openstreetmap.org/#map=18/40.44052/-3.78589)
+* Tecnología, talento y metodología para reinventar el futuro digital de las grandes compañías
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [APSL](https://www.apsl.net/)
 
 * Edifici Europa - Planta baja - Galileo Galilei, s/n 07121 Parc Bit - Palma - Illes Balears - 971 43 97 71 - info@apsl.net
