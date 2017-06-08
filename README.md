@@ -103,6 +103,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * OpenShine es una pequeña empresa de desarrollo de software, especializada en Web, Móvil y DevOps. Estamos construyendo un equipo técnico sin jerarquías, en el que las decisiones se toman entre todos, y con una transparencia absoluta en lo relativo a la gestión de la empresa. Nuestro propósito es crecer de manera sostenible, creando productos de alta calidad y divirtiéndonos por el camino. 
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Paradigma Digital](https://www.paradigmadigital.com/)
+
+* Vía de las dos Castillas, 33. Ática 4, 2ª Planta. 28224 Pozuelo de Alarcón - Madrid
+* [GitHub](https://github.com/paradigmadigital)
+* [Twitter](https://twitter.com/paradigmate)
+* [Localización](http://www.openstreetmap.org/#map=18/40.44052/-3.78589)
+* Tecnología, talento y metodología para reinventar el futuro digital de las grandes compañías
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [GNUites](http://gnuites.cat/)
 
 * Antic Camí Ral 17, AD500 Andorra la Vella, Principat d'Andorra - +376 647 007 - info@gnuites.cat
