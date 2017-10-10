@@ -121,6 +121,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Creación de soluciones basadas en tecnologías libres. Desarrollo web, APPs nativas/híbridas, auditoría y consultoría IT-sec. Nos centramos en la optimización de procesos de negocio exprimiendo al máximo la tecnología que tenemos a nuestro alcance, la seguridad de la información y la integración de nuevos canales.
 * *python-friendliness*: :snake: :snake:
 
+#### [Ingran Engineering](http://ingran.es/)
+
+* Parque Tecnológico de Bizkaia, Edificio 612, 48160 Derio (Bizkaia) - (+34) 944 979034 - info@ingran.es
+* [GitHub](https://github.com/ingran)
+* [Twitter](https://twitter.com/ingran_eng/)
+* [Localización](https://www.openstreetmap.org/node/5031642800#map=15/43.2997/-2.8685)
+* IoT (Internet of Things) aplicado a bombeos de agua cubriendo todo el proceso de telemedida, telecontrol, análisis de datos y presentación de los mismo. Trabajamos con Open Source para generar soluciones de valor en el mercado que sean altamente integrables y adaptables.
+* *python-friendliness*: :snake: :snake:
+
 #### [No es magia es Wadobo, S.L.L](http://wadobo.com)
 
 * C/Gabriela Sánchez Aranda, 5A Local 41010, Sevilla - 951 49 14 24 - info@wadobo.com
