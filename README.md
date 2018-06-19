@@ -58,6 +58,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Ebury es una firma especializada en pagos internacionales e intercambio de divisas. Desarrollo de aplicaciones web. Análisis de datos. Servidores en la nube.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Estudio Nexos](https://www.estudionexos.com)
+
+* C. Carbonero 6, 47011, Valladolid - (0034) 983 07 09 00  - hola@estudionexos.com
+* [GitHub](https://github.com/EstudioNexos)
+* [Twitter](https://twitter.com/n3storm)
+* [Localización](https://www.openstreetmap.org/node/4421839693#map=19/41.65027/-4.70368)
+* Somos webmasters y nuestra caja de herramientas es Python. Desarrollamos e integramos sistemas heterogéneos con Python, Django y Flask. Gestores de contenidos, paneles de administración, monitorización, webservices, scraping, automatización de tareas, reporting.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Geographica](http://geographica.gs)
 
 * Ebro 1, 41012, Sevilla - +34 954 701 157 - hello@geographica.gs
