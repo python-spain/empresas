@@ -148,3 +148,12 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [Localización](http://www.openstreetmap.org/query?lat=39.48858&lon=-0.36159#map=19/39.48859/-0.36153)
 * Administración de servidores y redes, virtualización y monitorización. Utilizamos Ansible para automatización y despliegue.
 * *python-friendliness*: :snake:
+
+#### [ETS Asset Management Factory](http://www.etsfactory.com)
+
+* Cañada de la Carrera 2 - 4. Urb. La Cabaña. 28223 Pozuelo de Alarcón. Madrid. Spain. - (+34) 91 159 98 55 - info@etsfactory.com
+* [GitHub](https://github.com/etsfactory)
+* [Twitter](https://twitter.com/EtsFactory)
+* [Localización](https://www.openstreetmap.org/search?query=40.42287%2C-3.83686#map=17/40.42287/-3.83686)
+* Somos una empresa de asesoramiento financiero que crea estrategias de inversión cuantitativas, matemáticas. Dos tercios de nuestra plantilla se dedican al I+D en Tecnología y Data Science. Todo el mundo usa Python, tanto para el desarrollo de software como para aplicar Machine Learning e Inteligencia Artificial a nuestras soluciones de inversión. 
+* *python-friendliness*: :snake: :snake: :snake:
