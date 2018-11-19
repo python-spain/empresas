@@ -122,6 +122,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Tecnología, talento y metodología para reinventar el futuro digital de las grandes compañías
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Transparent CDN](https://www.transparentcdn.com/)
+
+* Calle Miguel Yuste 12, 2ª Planta. 28043 Madrid - info@transparentcdn.com
+* [GitHub](https://github.com/Transparent-CDN/)
+* [Twitter](https://twitter.com/transparentcdn)
+* [Localización](http://www.openstreetmap.org/#map=17/40.43821/-3.62430)
+* Red de distribución de contenido, la primera 100% española. Servicios de entrega de contenido web, multimedia, y transcoding.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [GNUites](http://gnuites.cat/)
 
 * Antic Camí Ral 17, AD500 Andorra la Vella, Principat d'Andorra - +376 647 007 - info@gnuites.cat
