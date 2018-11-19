@@ -124,7 +124,7 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 
 #### [Transparent CDN](https://www.transparentcdn.com/)
 
-* Calle Miguel Yuste 12, 2ª Planta. 28043 Madrid
+* Calle Miguel Yuste 12, 2ª Planta. 28043 Madrid - info@transparentcdn.com
 * [GitHub](https://github.com/Transparent-CDN/)
 * [Twitter](https://twitter.com/transparentcdn)
 * [Localización](http://www.openstreetmap.org/#map=17/40.43821/-3.62430)
