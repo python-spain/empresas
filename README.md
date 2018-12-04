@@ -166,3 +166,9 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [Localización](http://www.openstreetmap.org/query?lat=39.48858&lon=-0.36159#map=19/39.48859/-0.36153)
 * Administración de servidores y redes, virtualización y monitorización. Utilizamos Ansible para automatización y despliegue.
 * *python-friendliness*: :snake:
+
+#### [PixelMouse](https://pixelmouse.es)
+
+* C/Centelles 17, 46006 Valencia - 963 252 708 - hola@pixelmouse.es 
+* [Localización](https://www.openstreetmap.org/#map=19/39.45997/-0.37168)
+* Desarrollo gráfico, aplicaciones web, aplicaciones móviles y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django y Flask. Alta personalización y soluciones a medida. * *python-friendliness*: :snake:
