@@ -171,4 +171,5 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 
 * C/Centelles 17, 46006 Valencia - 963 252 708 - hola@pixelmouse.es 
 * [Localización](https://www.openstreetmap.org/#map=19/39.45997/-0.37168)
-* Desarrollo gráfico, aplicaciones web, aplicaciones móviles y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django y Flask. Alta personalización y soluciones a medida. * *python-friendliness*: :snake:
+* Desarrollo gráfico, aplicaciones web, aplicaciones móviles y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django y Flask. Alta personalización y soluciones a medida. 
+* *python-friendliness*: :snake:
