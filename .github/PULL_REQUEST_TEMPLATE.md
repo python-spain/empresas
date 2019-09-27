@@ -7,4 +7,4 @@
 * [Twitter](http://twitter.com/empresa/)
 * [Localización](http://www.openstreetmap.org/?mlat=latitud&mlon=longitud#map=18/latitud/longitud)
 * Descripción libre (máximo 50 palabras)
-* Nivel de *python-friendliness* (un *python* por criterio cumplido): :snake: :snake: :snake:
+* Nivel de *python-friendliness* (un *python* por criterio cumplido): :snake: :snake: :snake: :snake:
