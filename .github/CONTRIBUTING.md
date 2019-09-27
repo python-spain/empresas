@@ -7,6 +7,7 @@
 * ¿Ofrece tu empresa soluciones basadas en Python?
 * ¿Se utiliza internamente de manera habitual?
 * ¿Busca tu empresa programadores con experiencia en Python?
+* ¿Tu empresa y/o sus trabajadores, como parte de su jornada, contribuyen a la comunidad Python publicando código o colaborando con proyectos ya existentes?
 
 *(si crees que debemos cambiar o añadir otros criterios, ¡[abre un tique](https://github.com/python-spain/empresas/issues)!)*
 
@@ -19,7 +20,7 @@
 * [Twitter](http://twitter.com/empresa/)
 * [Localización](http://www.openstreetmap.org/#map=15/latitud/longitud)
 * Descripción libre (máximo 50 palabras)
-* *python-friendliness* (un *python* por criterio cumplido): :snake: :snake: :snake:
+* *python-friendliness* (un *python* por criterio cumplido): :snake: :snake: :snake: :snake:
 
 La ordenación en la lista se hace por número de *pythons* y, dentro de cada
 bloque, de manera alfabética.
