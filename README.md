@@ -149,16 +149,6 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * IoT (Internet of Things) aplicado a bombeos de agua cubriendo todo el proceso de telemedida, telecontrol, análisis de datos y presentación de los mismo. Trabajamos con Open Source para generar soluciones de valor en el mercado que sean altamente integrables y adaptables.
 * *python-friendliness*: :snake: :snake:
 
-#### [No es magia es Wadobo, S.L.L](http://wadobo.com)
-
-* C/Gabriela Sánchez Aranda, 5A Local 41010, Sevilla - 951 49 14 24 - info@wadobo.com
-* [GitHub](http://github.com/wadobo)
-* [Twitter](http://twitter.com/wadobo)
-* No tenemos oficina como tal, el equipo está distribuido entre Huelva, Málaga y Madrid
-* Desarrollamos todo tipo de software relacionado con GNU/Linux y el software libre y también somos expertos en desarrollo web con django.
-* *python-friendliness*: :snake: :snake:
-
-
 #### [Menta Technology](https://www.mentatech.es)
 
 * C/Azagador de Alboraya 16, 46020 Valencia - 964 921 000 - info@mentatech.es
