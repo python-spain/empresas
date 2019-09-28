@@ -15,6 +15,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 
 ## Directorio de empresas
 
+#### [Bitergia](http://bitergia.com)
+
+* Avda. Gregorio Peces Barba, 1 - 28918 Leganés, Madrid - info@bitergia.com
+* [GitHub](http://github.com/bitergia), [GrimoireLab](http://github.com/bitergia)
+* [Twitter](http://twitter.com/bitergia)
+* [Localización](http://www.openstreetmap.org/?mlat=40.354541&mlon=-3.743720#map=18/40.35454/-3.74372)
+* Analítica cuantitativa de los procesos de desarrollo de software, especialmente desarrollo Open Source e Inner Source. Bitergia ofrece herramientas y asesoramiento para gestores de proyectos y de comunidades para conocer mejor los proyectos de software en los que están involucrados
+* *python-friendliness*: :snake: :snake: :snake: :snake:
+
 #### [APSL](https://www.apsl.net/)
 
 * Edifici Europa - Planta baja - Galileo Galilei, s/n 07121 Parc Bit - Palma - Illes Balears - 971 43 97 71 - info@apsl.net
@@ -32,15 +41,6 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [Localización](http://www.openstreetmap.org/node/2293397059#map=18/37.38331/-5.97258)
 * En BeDjango somos expertos en tecnología. Estamos fuertemente especializados en Python/Django y tecnologías relacionadas como Open edX, OpenStack y Pyramid. Hacemos desarrollo ágil y estamos plenamente comprometidos con el aseguramiento de la calidad.
 * *python-friendliness*: :snake: :snake: :snake:
-
-#### [Bitergia](http://bitergia.com)
-
-* Avda. Gregorio Peces Barba, 1 - 28918 Leganés, Madrid - info@bitergia.com
-* [GitHub](http://github.com/bitergia), [GrimoireLab](http://github.com/bitergia)
-* [Twitter](http://twitter.com/bitergia)
-* [Localización](http://www.openstreetmap.org/?mlat=40.354541&mlon=-3.743720#map=18/40.35454/-3.74372)
-* Analítica cuantitativa de los procesos de desarrollo de software, especialmente desarrollo Open Source e Inner Source. Bitergia ofrece herramientas y asesoramiento para gestores de proyectos y de comunidades para conocer mejor los proyectos de software en los que están involucrados
-* *python-friendliness*: :snake: :snake: :snake: :snake:
 
 #### [Doofinder](https://www.doofinder.com)
 
@@ -123,6 +123,13 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Tecnología, talento y metodología para reinventar el futuro digital de las grandes compañías
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Pixelmouse](https://pixelmouse.es)
+
+* C/Centelles 17, 46006 Valencia - 963 252 708 - hola@pixelmouse.es 
+* [Localización](https://www.openstreetmap.org/#map=19/39.45997/-0.37168)
+* Desarrollo gráfico, aplicaciones web a medida, APPs (iOS y Android) y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django, Flask, Clojure y WordPress. Alta personalización y soluciones a medida. 
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Transparent CDN](https://www.transparentcdn.com/)
 
 * Calle Miguel Yuste 12, 2ª Planta. 28043 Madrid - info@transparentcdn.com
@@ -148,10 +155,3 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [Localización](http://www.openstreetmap.org/query?lat=39.48858&lon=-0.36159#map=19/39.48859/-0.36153)
 * Administración de servidores y redes, virtualización y monitorización. Utilizamos Ansible para automatización y despliegue.
 * *python-friendliness*: :snake:
-
-#### [Pixelmouse](https://pixelmouse.es)
-
-* C/Centelles 17, 46006 Valencia - 963 252 708 - hola@pixelmouse.es 
-* [Localización](https://www.openstreetmap.org/#map=19/39.45997/-0.37168)
-* Desarrollo gráfico, aplicaciones web a medida, APPs (iOS y Android) y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django, Flask, Clojure y WordPress. Alta personalización y soluciones a medida. 
-* *python-friendliness*: :snake: :snake: :snake:
