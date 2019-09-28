@@ -5,6 +5,7 @@
 * Empresas que venden productos y servicios basados en Python
 * Empresas que usan Python internamente
 * Empresas que buscan programadores en Python
+* Empresas en las que sus trabajadores, como parte de su jornada, contribuyen a la comunidad Python publicando código o colaborando con proyectos ya existentes
  
 ## ¿Tu empresa no está en el listado?
 
