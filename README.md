@@ -40,7 +40,7 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [Twitter](http://twitter.com/bitergia)
 * [Localización](http://www.openstreetmap.org/?mlat=40.354541&mlon=-3.743720#map=18/40.35454/-3.74372)
 * Analítica cuantitativa de los procesos de desarrollo de software, especialmente desarrollo Open Source e Inner Source. Bitergia ofrece herramientas y asesoramiento para gestores de proyectos y de comunidades para conocer mejor los proyectos de software en los que están involucrados
-* *python-friendliness*: :snake: :snake: :snake:
+* *python-friendliness*: :snake: :snake: :snake: :snake:
 
 #### [Ebury](https://www.ebury.es/)
 
