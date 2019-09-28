@@ -42,6 +42,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Analítica cuantitativa de los procesos de desarrollo de software, especialmente desarrollo Open Source e Inner Source. Bitergia ofrece herramientas y asesoramiento para gestores de proyectos y de comunidades para conocer mejor los proyectos de software en los que están involucrados
 * *python-friendliness*: :snake: :snake: :snake: :snake:
 
+#### [Doofinder](https://www.doofinder.com)
+
+* Edificio Arcade, Calle de Rufino González, 23 bis, 1º - 1, 28037 Madrid - info@doofinder.com
+* [GitHub](https://github.com/doofinder)
+* [Twitter](https://twitter.com/doofinder)
+* [Localización](https://www.google.com/maps/place/Doofinder/@40.4383732,-3.6267431,15z/data=!4m5!3m4!1s0x0:0xf3086c8735443c2!8m2!3d40.4383732!4d-3.6267431)
+* Uno de los pilares principales es Python para gran parte del producto, junto con otros lenguajes como Elixir, contamos con un equipo experto y horizontal en Python, usamos Django, Flask, Celery, aws lambdas, Data Science con TensorFlow y Keras, Ansible y nos gusta el código legible y eficiente, junto con un ambiente excelente de trabajo.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Ebury](https://www.ebury.es/)
 
 * C/ Puerta del Mar 15, 2º planta, 29005 Málaga - +34 951 203 973 - info@ebury.es
