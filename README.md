@@ -87,15 +87,6 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Creamos soluciones para empresas del sector eléctrico: Comercializadoras y distribudoras. ERP y GIS. Todo en software libre.
 * *python-friendliness*: :snake: :snake: :snake:
 
-#### [INITIOS DESARROLLOS, S.L.](http://www.initios.com)
-
-* Rúa de García Barbón 27 Interior bajo, 36201 Vigo (Pontevedra) - 886 44 07 15 - contact@initios.com
-* [GitHub](https://github.com/initios)
-* [Twitter](https://twitter.com/initios_com)
-* [Localización](http://www.openstreetmap.org/?mlat=42.23732&mlon=-8.71767#map=18/42.23732/-8.71767)
-* Desarrollo a medida para empresas con especialización en mantenimiento, evolución y migración de entornos heredados.
-* *python-friendliness*: :snake: :snake: :snake:
-
 #### [IOMED Medical Solutions, S.L.](http://www.iomed.es)
 
 * Esteve Terradas 1, 113b, Edificio RDIT, Parc Mediterrani de la Tecnologia, 08860 Castelldefel (Barcelona) - +34 637 404 271 - dev@iomed.es
@@ -140,25 +131,6 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [Localización](http://www.openstreetmap.org/?mlat=42.50113&mlon=1.51129#map=18/42.50113/1.51129)
 * Creación de soluciones basadas en tecnologías libres. Desarrollo web, APPs nativas/híbridas, auditoría y consultoría IT-sec. Nos centramos en la optimización de procesos de negocio exprimiendo al máximo la tecnología que tenemos a nuestro alcance, la seguridad de la información y la integración de nuevos canales.
 * *python-friendliness*: :snake: :snake:
-
-#### [Ingran Engineering](http://ingran.es/)
-
-* Parque Tecnológico de Bizkaia, Edificio 612, 48160 Derio (Bizkaia) - (+34) 944 979034 - info@ingran.es
-* [GitHub](https://github.com/ingran)
-* [Twitter](https://twitter.com/ingran_eng/)
-* [Localización](https://www.openstreetmap.org/node/5031642800#map=15/43.2997/-2.8685)
-* IoT (Internet of Things) aplicado a bombeos de agua cubriendo todo el proceso de telemedida, telecontrol, análisis de datos y presentación de los mismo. Trabajamos con Open Source para generar soluciones de valor en el mercado que sean altamente integrables y adaptables.
-* *python-friendliness*: :snake: :snake:
-
-#### [No es magia es Wadobo, S.L.L](http://wadobo.com)
-
-* C/Gabriela Sánchez Aranda, 5A Local 41010, Sevilla - 951 49 14 24 - info@wadobo.com
-* [GitHub](http://github.com/wadobo)
-* [Twitter](http://twitter.com/wadobo)
-* No tenemos oficina como tal, el equipo está distribuido entre Huelva, Málaga y Madrid
-* Desarrollamos todo tipo de software relacionado con GNU/Linux y el software libre y también somos expertos en desarrollo web con django.
-* *python-friendliness*: :snake: :snake:
-
 
 #### [Menta Technology](https://www.mentatech.es)
 
