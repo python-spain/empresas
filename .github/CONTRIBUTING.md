@@ -22,8 +22,7 @@
 * Descripción libre (máximo 50 palabras)
 * *python-friendliness* (un *python* por criterio cumplido): :snake: :snake: :snake: :snake:
 
-La ordenación en la lista se hace por número de *pythons* y, dentro de cada
-bloque, de manera alfabética.
+##### IMPORTANTE: La ordenación en la lista se hace por número de *pythons* y, dentro de cada bloque, de manera alfabética.
 
 *(si crees que debemos cambiar o añadir otra información, ¡[abre un tique](https://github.com/python-spain/empresas/issues)!)*
 
