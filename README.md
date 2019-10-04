@@ -130,6 +130,13 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Desarrollo gráfico, aplicaciones web a medida, APPs (iOS y Android) y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django, Flask, Clojure y WordPress. Alta personalización y soluciones a medida. 
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Talaikide](https://www.talaikide.com/es_ES/) (💡 antes [Ingran](https://www.openstreetmap.org/node/5031642800#map=15/43.2997/-2.8685))
+
+* Juan Belmonte 55, 20750 Zumaia (Gipuzkoa) - 665 736 580 - info@talaikide.com
+* [GitHub](https://github.com/ingran)
+* IoT (Internet of Things) aplicado a bombeos de agua cubriendo todo el proceso de telemedida, telecontrol, análisis de datos y presentación de los mismos. Desarrollo de proyectos informáticos a medida. Nos distinguimos por solucionar problemas en las disciplinas de electrónica, informática e ingeniería, intentando resolver los problemas complicados de la manera mas sencilla posible. Trabajamos con Open Source para generar soluciones de valor en el mercado que sean altamente integrables y adaptables. 
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Transparent CDN](https://www.transparentcdn.com/)
 
 * Calle Miguel Yuste 12, 2ª Planta. 28043 Madrid - info@transparentcdn.com
