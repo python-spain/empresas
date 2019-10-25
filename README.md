@@ -130,6 +130,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Desarrollo gráfico, aplicaciones web a medida, APPs (iOS y Android) y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django, Flask, Clojure y WordPress. Alta personalización y soluciones a medida. 
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [STT Systems](https://www.stt-systems.com)
+
+* Parque Empresarial de Zuatzu, Edificio Easo, 2ª planta, 20018 San Sebastián (Guipúzcoa) - (+34) 943 317777 - info@stt-systems.com
+* [GitHub](https://github.com/stt-systems)
+* [Twitter](https://twitter.com/sttsystems)
+* [Localización](https://www.google.com/maps/place/STT+Ingenier%C3%ADa+y+Sistemas/@43.2971898,-2.0091831,15z/data=!4m5!3m4!1s0x0:0x2ad284836fa91c7!8m2!3d43.2971898!4d-2.0091831)
+* El enfoque principal de STT ha sido desarrollar productos y soluciones innovadores para diversas aplicaciones de 'Análisis de Movimiento' y 'Visión Artificial'. STT también se ha fortalecido en la entrega de proyectos de software personalizados, así como en la oferta de servicios de consultoría y capacitación. Entre sus clientes se incluyen pequeñas empresas que necesitan productos listos para usar, así como grandes empresas y corporaciones que buscan soluciones personalizadas.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Talaikide](https://www.talaikide.com/es_ES/) (💡 antes [Ingran](https://www.openstreetmap.org/node/5031642800#map=15/43.2997/-2.8685))
 
 * Juan Belmonte 55, 20750 Zumaia (Gipuzkoa) - 665 736 580 - info@talaikide.com
