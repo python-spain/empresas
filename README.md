@@ -130,6 +130,14 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Desarrollo gráfico, aplicaciones web a medida, APPs (iOS y Android) y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django, Flask, Clojure y WordPress. Alta personalización y soluciones a medida. 
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Revelio Development](https://revelio.dev/)
+
+* Rúa Uruguay 15 entresuelo B, 36201 Vigo (Pontevedra) - +34 986 333 638 - contact@revelio.dev
+* [GitHub](https://github.com/revelio-dev/)
+* [Localización](https://www.openstreetmap.org/#map=19/42.2362331/-8.7176263)
+* Desarrollo a medida para empresas con especialización en mantenimiento, evolución y migración de entornos heredados.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [STT Systems](https://www.stt-systems.com)
 
 * Parque Empresarial de Zuatzu, Edificio Easo, 2ª planta, 20018 San Sebastián (Guipúzcoa) - (+34) 943 317777 - info@stt-systems.com
