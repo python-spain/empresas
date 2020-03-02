@@ -113,7 +113,6 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Nucoro es la plataforma fintech de wealth managment que permite a bancos y aseguradas crear servicios digitales de inversión y ahorro para sus clientes. Nuestra tecnología basada en Python/Django automatiza el proceso de inversión end-to-end, orquesta servicios de terceros y ofrece una API de integración y otra de desarrollo.
 * *python-friendliness*: :snake: :snake: :snake:
 
-
 #### [OpenShine](http://www.openshine.com)
 
 * Plaza del Conde del Valle de Súchil 7, 1º, puerta 8, 28015 Madrid - info@openshine.com
