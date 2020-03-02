@@ -105,6 +105,14 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Nuestro producto es un gestor de historias clínica médicas (EHR), que asiste al médico en la creación, visualización y análisis de los datos del paciente. La herramienta analiza el texto introducido por los médicos, estructrurando y ordenando la información del paciente en tiempo real, permitiendo así poder hacer análisis en profundidad sobre los datos propiamente médicos.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Nucoro](https://nucoro.com)
+
+* Cañada de la Carrera 6. Urb. La Cabaña. 28223 Pozuelo de Alarcón. Madrid. Spain. - (+34) 91 074 30 84 - careers@nucoro.com
+* [Twitter](https://twitter.com/nucoroteam)
+* [Localización](https://www.openstreetmap.org/search?query=40.42287%2C-3.83686#map=17/40.42287/-3.83686)
+* Nucoro es la plataforma fintech de wealth management que permite a bancos y aseguradas crear servicios digitales de inversión y ahorro para sus clientes. Nuestra tecnología basada en Python/Django automatiza el proceso de inversión end-to-end, orquesta servicios de terceros y ofrece una API de integración y otra de desarrollo.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [OpenShine](http://www.openshine.com)
 
 * Plaza del Conde del Valle de Súchil 7, 1º, puerta 8, 28015 Madrid - info@openshine.com
