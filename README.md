@@ -110,7 +110,7 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Cañada de la Carrera 6. Urb. La Cabaña. 28223 Pozuelo de Alarcón. Madrid. Spain. - (+34) 91 074 30 84 - careers@nucoro.com
 * [Twitter](https://twitter.com/nucoroteam)
 * [Localización](https://www.openstreetmap.org/search?query=40.42287%2C-3.83686#map=17/40.42287/-3.83686)
-* Nucoro es la plataforma fintech de wealth managment que permite a bancos y aseguradas crear servicios digitales de inversión y ahorro para sus clientes. Nuestra tecnología basada en Python/Django automatiza el proceso de inversión end-to-end, orquesta servicios de terceros y ofrece una API de integración y otra de desarrollo.
+* Nucoro es la plataforma fintech de wealth management que permite a bancos y aseguradas crear servicios digitales de inversión y ahorro para sus clientes. Nuestra tecnología basada en Python/Django automatiza el proceso de inversión end-to-end, orquesta servicios de terceros y ofrece una API de integración y otra de desarrollo.
 * *python-friendliness*: :snake: :snake: :snake:
 
 #### [OpenShine](http://www.openshine.com)
