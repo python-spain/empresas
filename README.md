@@ -51,6 +51,13 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Uno de los pilares principales es Python para gran parte del producto, junto con otros lenguajes como Elixir, contamos con un equipo experto y horizontal en Python, usamos Django, Flask, Celery, aws lambdas, Data Science con TensorFlow y Keras, Ansible y nos gusta el código legible y eficiente, junto con un ambiente excelente de trabajo.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Develatio](https://develat.io)
+* Calle Garnacha 47, Fuensaldaña, Valladolid, 47194 - contacto@develat.io
+* [GitHub](https://github.com/Develatio)
+* [Twitter](https://twitter.com/develatiohq)
+* Empresa de consultoría y desarrollo de software a medida con énfasis en las buenas practicas, la calidad y la seguridad. Especializados en Django, VueJS y AWS.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Ebury](https://www.ebury.es/)
 
 * C/ Puerta del Mar 15, 2º planta, 29005 Málaga - +34 951 203 973 - info@ebury.es
