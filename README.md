@@ -203,6 +203,8 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Landbot is a platform that helps companies to create conversational experiences. Boost customer engagement with human conversations, at scale.
 
 💬 The Anti-AI Conversational Interface to match user expectations
+
 🎨 +20 visual elements to customize, all-new code-free bot builder
+
 🔌 Multiformat use it as a full page, a banner or a widget!
 * *python-friendliness*: :snake: :snake: :snake:
