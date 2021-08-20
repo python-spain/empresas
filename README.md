@@ -194,3 +194,14 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [Localización](http://www.openstreetmap.org/query?lat=39.48858&lon=-0.36159#map=19/39.48859/-0.36153)
 * Administración de servidores y redes, virtualización y monitorización. Utilizamos Ansible para automatización y despliegue.
 * *python-friendliness*: :snake:
+
+#### [Landbot](https://jobs.landbot.io)
+
+* [Twitter](https://twitter.com/landbot_io)
+* [Linkedin](https://www.linkedin.com/company/landbot-io/)
+* [Jobs](https://jobs.landbot.io/#section-118194)
+* Landbot is a platform that helps companies to create conversational experiences. Boost customer engagement with human conversations, at scale.
+💬 The Anti-AI Conversational Interface to match user expectations
+🎨 +20 visual elements to customize, all-new code-free bot builder
+🔌 Multiformat use it as a full page, a banner or a widget!
+* *python-friendliness*: :snake: :snake: :snake:
