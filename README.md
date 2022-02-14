@@ -120,15 +120,6 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Nucoro es la plataforma fintech de wealth management que permite a bancos y aseguradas crear servicios digitales de inversión y ahorro para sus clientes. Nuestra tecnología basada en Python/Django automatiza el proceso de inversión end-to-end, orquesta servicios de terceros y ofrece una API de integración y otra de desarrollo.
 * *python-friendliness*: :snake: :snake: :snake:
 
-#### [OpenShine](http://www.openshine.com)
-
-* Plaza del Conde del Valle de Súchil 7, 1º, puerta 8, 28015 Madrid - info@openshine.com
-* [GitHub](https://github.com/openshine),
-* [Twitter](https://twitter.com/openshine)
-* [Localización](http://www.openstreetmap.org/#map=19/40.43212/-3.70755)
-* OpenShine es una pequeña empresa de desarrollo de software, especializada en Web, Móvil y DevOps. Estamos construyendo un equipo técnico sin jerarquías, en el que las decisiones se toman entre todos, y con una transparencia absoluta en lo relativo a la gestión de la empresa. Nuestro propósito es crecer de manera sostenible, creando productos de alta calidad y divirtiéndonos por el camino. 
-* *python-friendliness*: :snake: :snake: :snake:
-
 #### [Paradigma Digital](https://www.paradigmadigital.com/)
 
 * Vía de las dos Castillas, 33. Ática 4, 2ª Planta. 28224 Pozuelo de Alarcón - Madrid
