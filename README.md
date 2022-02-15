@@ -129,19 +129,19 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Tecnología, talento y metodología para reinventar el futuro digital de las grandes compañías
 * *python-friendliness*: :snake: :snake: :snake:
 
-#### [Pixelmouse](https://pixelmouse.es)
-
-* C/Centelles 17, 46006 Valencia - 963 252 708 - hola@pixelmouse.es 
-* [Localización](https://www.openstreetmap.org/#map=19/39.45997/-0.37168)
-* Desarrollo gráfico, aplicaciones web a medida, APPs (iOS y Android) y posicionaminto online. Sistemas GNU-Linux. Tecnologías Python, Django, Flask, Clojure y WordPress. Alta personalización y soluciones a medida. 
-* *python-friendliness*: :snake: :snake: :snake:
-
 #### [Revelio Development](https://revelio.dev/)
 
 * Rúa Uruguay 15 entresuelo B, 36201 Vigo (Pontevedra) - +34 986 333 638 - contact@revelio.dev
 * [GitHub](https://github.com/revelio-dev/)
 * [Localización](https://www.openstreetmap.org/#map=19/42.2362331/-8.7176263)
 * Desarrollo a medida para empresas con especialización en mantenimiento, evolución y migración de entornos heredados.
+* *python-friendliness*: :snake: :snake: :snake:
+
+#### [Sapps](https://sapps.studio/)
+
+* C/ Centelles 17, 46006 Valencia - 963 252 708 - hola@sapps.studio
+* [Localización](https://www.openstreetmap.org/#map=19/39.45997/-0.37168)
+* En Sapps hacemos frente a todos tipos de proyectos digitales, pero nos encanta diseñar y desarrollar Apps. Siempre diseñando para el usuario y en estrecha colaboración con nuestros clientes, conseguimos sacar lo mejor de cada proyecto. Usamos tecnologías como Python, Django, Django REST Framework, FastAPI, Flask, Clojure, Swift, PWA, Node, Common Lisp... Nuestro objetivo es la alta personalización y soluciones a medida. 
 * *python-friendliness*: :snake: :snake: :snake:
 
 #### [STT Systems](https://www.stt-systems.com)
