@@ -42,6 +42,13 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * En BeDjango somos expertos en tecnología. Estamos fuertemente especializados en Python/Django y tecnologías relacionadas como Open edX, OpenStack y Pyramid. Hacemos desarrollo ágil y estamos plenamente comprometidos con el aseguramiento de la calidad.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [CCSTech.io](https://ccstech.io/)
+
+* C/ Xàtiva, 25, 6ºB (o puerta 11), 46002 Valencia - +34 911 23 61 05 - helloworld@ccstech.io
+* [Localización](https://www.openstreetmap.org/#map=18/39.46717/-0.37528)
+* En CCSTech.io hacemos frente a todos tipos de proyectos digitales, pero nos encanta desarrollos a medida y la creación de Apps. Siempre diseñando para el usuario y en estrecha colaboración con nuestros clientes, conseguimos sacar lo mejor de cada proyecto. Usamos tecnologías como Python, Django, Django REST Framework, FastAPI, Flask, Clojure, Swift, PWA, Node, Common Lisp... Nuestro objetivo es la alta personalización y soluciones a medida. 
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Doofinder](https://www.doofinder.com)
 
 * Edificio Arcade, Calle de Rufino González, 23 bis, 1º - 1, 28037 Madrid - info@doofinder.com
@@ -135,13 +142,6 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * [GitHub](https://github.com/revelio-dev/)
 * [Localización](https://www.openstreetmap.org/#map=19/42.2362331/-8.7176263)
 * Desarrollo a medida para empresas con especialización en mantenimiento, evolución y migración de entornos heredados.
-* *python-friendliness*: :snake: :snake: :snake:
-
-#### [Sapps](https://sapps.studio/)
-
-* C/ Centelles 17, 46006 Valencia - 963 252 708 - hola@sapps.studio
-* [Localización](https://www.openstreetmap.org/#map=19/39.45997/-0.37168)
-* En Sapps hacemos frente a todos tipos de proyectos digitales, pero nos encanta diseñar y desarrollar Apps. Siempre diseñando para el usuario y en estrecha colaboración con nuestros clientes, conseguimos sacar lo mejor de cada proyecto. Usamos tecnologías como Python, Django, Django REST Framework, FastAPI, Flask, Clojure, Swift, PWA, Node, Common Lisp... Nuestro objetivo es la alta personalización y soluciones a medida. 
 * *python-friendliness*: :snake: :snake: :snake:
 
 #### [STT Systems](https://www.stt-systems.com)
