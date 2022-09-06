@@ -112,6 +112,15 @@ El listado tiene una licencia [Creative Commons 0](LICENSE).
 * Nuestro producto es un gestor de historias clínica médicas (EHR), que asiste al médico en la creación, visualización y análisis de los datos del paciente. La herramienta analiza el texto introducido por los médicos, estructrurando y ordenando la información del paciente en tiempo real, permitiendo así poder hacer análisis en profundidad sobre los datos propiamente médicos.
 * *python-friendliness*: :snake: :snake: :snake:
 
+#### [Kave Home](https://kavehome.com/es/es/)
+
+* Carrer Tallers 14, 17410 Sils, Girona - +34 972 85 36 28 - it@kavehome.com
+* [GitHub](https://github.com/KaveTech)
+* [Twitter](https://twitter.com/kavehome)
+* [Localización](https://www.openstreetmap.org/?mlat=41.80779&mlon=2.74955#map=17/41.80846/2.74910)
+* Muebles y decoración de diseño para casas con personalidad. El departamento de IT (Kave Tech) gestionamos el ecommerce y desarrollamos herramientas internas todo con Python. Queremos ser unos de los big players en el sector del mueble a nivel mundial. Estamos vendiendo a más de 80 países.
+* *python-friendliness*: :snake: :snake: :snake:
+
 #### [Nucoro](https://nucoro.com)
 
 * Cañada de la Carrera 6. Urb. La Cabaña. 28223 Pozuelo de Alarcón. Madrid. Spain. - (+34) 91 074 30 84 - careers@nucoro.com
